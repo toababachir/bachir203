@@ -1,6 +1,11 @@
+*{   
+        font-family: "Cairo", sans-serif;
+        font-weight: 1000;
+}
+
 
  body {
-  font-family: Arial, sans-serif;
+ 
   margin: 0;
 }
 
