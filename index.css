@@ -22,18 +22,3 @@ footer {
 .contact-section h2 {
   color: #333;
 }
-
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-.offcanvas {
-  height: 100%;
-  overflow-y: auto;
-}
-
-.offcanvas-body {
-  height: 100%;
-  overflow-y: auto;
-}
