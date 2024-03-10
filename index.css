@@ -1,33 +1,34 @@
-*{   
-        font-family: "Cairo", sans-serif;
-        font-weight: 1000;
+
+ body {
+  font-family: Arial, sans-serif;
+  margin: 0;
 }
 
-center p i{
-        font-family: "Cairo", sans-serif;
-        font-weight: 700;
-        font-size:400;
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
 }
 
+.contact-section {
+  margin-bottom: 20px;
+}
 
-/* styles.css */
+.contact-section h2 {
+  color: #333;
+}
 
-body {
-        font-family: Arial, sans-serif;
-    }
-    
-    footer {
-        background-color: #f2f2f2;
-        padding: 20px;
-        text-align: center;
-    }
-    
-    .contact-section {
-        margin-bottom: 20px;
-    }
-    
-    .contact-section h2 {
-        color: #333;
-    }
-    
- 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.offcanvas {
+  height: 100%;
+  overflow-y: auto;
+}
+
+.offcanvas-body {
+  height: 100%;
+  overflow-y: auto;
+}
